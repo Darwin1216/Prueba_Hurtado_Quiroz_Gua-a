@@ -107,7 +107,7 @@ public class Persona {
                 + "Apellidos y Nombres: "+getApellido1()+" "+getApellido2()+ 
                 " "+getNombre1()+" "+getNombre2()+"\n"
                 + "Direccion: "+getDireccion()+"\n"
-                + "Cedular: "+getCelular()+"\n"
+                + "Celular: "+getCelular()+"\n"
                 + "Correo: "+getCorreo();
     }
    

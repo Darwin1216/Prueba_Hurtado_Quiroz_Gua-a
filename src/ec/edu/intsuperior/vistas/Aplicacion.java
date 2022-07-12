@@ -16,12 +16,9 @@ public class Aplicacion {
         p1.setDireccion(JOptionPane.showInputDialog("Ingresa su direccion"));
         p1.setCelular(JOptionPane.showInputDialog("Ingrese su numero celular"));
         p1.setCorreo(JOptionPane.showInputDialog("Ingrese su correo"));
-        
+       
+       
         JOptionPane.showMessageDialog(null, p1.toString());
-        
-        
-        
-        
     }
             
     
