@@ -10,5 +10,14 @@ package ec.edu.intsuperior.modelo;
  * @author user
  */
 public class Persona {
+    private String nombre1;
+    private String nombre2;
+    private String ci;
+    private String apellido1;
+    private String apellido2;
+    private String direccion;
+    private String celular;
+    private String correo;
+    
     
 }
